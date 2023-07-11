@@ -1,4 +1,5 @@
 
+![baby yoda](https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif)
 
 <h3 align="center">
 Hi there, Tameka here // Tameka hier // Tameka aquí // 타메카는 여기 // טאמקה כאן // 👋
@@ -16,7 +17,7 @@ Here is a little about me:
 - 📫 You can ping me on Teams or email.
 
   <h2 align="center">
-  
+
 
 <!---
 TGillettSE/TGillettSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
